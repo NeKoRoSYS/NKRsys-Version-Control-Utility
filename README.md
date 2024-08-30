@@ -1,5 +1,5 @@
 # NKRsys-Unity-Version-Control-Utility
-This repository aims help with version control for Unity projects.
+This repository aims help with version control for Unity projects. *Directly based on [LlamAcademy's Tutorial](https://www.youtube.com/watch?v=PbFE0m9UMtE).*
 
 <br>
 
