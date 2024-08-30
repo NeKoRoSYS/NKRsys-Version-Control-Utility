@@ -15,7 +15,9 @@ Normally, anyone would have to manually set their project's bundle version in th
 
 ### Example
 If you set `Base Version` to "`1.0.2`", `Version` or the actual app bundle version will now be automatically formatted to "`1.0.2.MM.DD.YY.BUILDNUMBER`" before the build process starts. *The format can be easily modified by tweaking the `VersionIncrementer` class.
+
 <br>
+
 ![Example](BaseVersionEditorExample.png)
 
 <br>
