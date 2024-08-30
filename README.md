@@ -1,4 +1,4 @@
-# NKRsys-Unity-Version-Control-Utility
+# NKRsys-Version-Control-Utility
 This repository aims to help developers who use git-based platforms for version control of their Unity project. *Directly based on [LlamAcademy's Tutorial](https://www.youtube.com/watch?v=PbFE0m9UMtE).*
 
 <br>
