@@ -4,7 +4,7 @@ This repository aims help with version control for Unity projects.
 <br>
 
 ## Before You Use
-The scripts are to be placed in an Editor folder or otherwise it will not function.
+The scripts are to be placed in an Editor folder (Assembly Definition) or otherwise it will not function.
 
 <br>
 
