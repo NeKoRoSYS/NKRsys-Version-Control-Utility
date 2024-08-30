@@ -1,5 +1,5 @@
 # NKRsys-Unity-Version-Control-Utility
-This repository aims help with version control for Unity projects. *Directly based on [LlamAcademy's Tutorial](https://www.youtube.com/watch?v=PbFE0m9UMtE).*
+This repository aims to help developers who use git-based platforms for version control of their Unity project. *Directly based on [LlamAcademy's Tutorial](https://www.youtube.com/watch?v=PbFE0m9UMtE).*
 
 <br>
 
@@ -15,11 +15,6 @@ Normally, anyone would have to manually set their project's bundle version in th
 
 ### Example
 If you set `Base Version` to "`1.0.2`", `Version` or the actual app bundle version will now be automatically formatted to "`1.0.2.MM.DD.YY.BUILDNUMBER`" before the build process starts. *The format can be easily modified by tweaking the `VersionIncrementer` class.
-
-<br>
-
-## Why?
-This repo simply aims to help developers who use git-based platforms for version control of their Unity project.
 
 <br>
 
